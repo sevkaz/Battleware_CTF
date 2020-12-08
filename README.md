@@ -1,2 +1,7 @@
 # Battleware_CTF
-Battleware CTF Osint Write-up
+Battleware CTF Write-up
+
+WEB 
+OSINT
+FORENSİC
+BLUE TEAMMİNG
